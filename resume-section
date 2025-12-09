@@ -1,0 +1,142 @@
+<section id="resume-portion" class="container py-5">
+    
+    <div class="text-center mb-5">
+        <h1 class="display-4">Blake B. Johnson</h1>
+        <p class="lead">
+    <a href="https://www.facebook.com/blake.johnson.331197" target="_blank" class="text-dark">[Facebook]</a> 
+    &bull; <a href="https://www.linkedin.com/in/blake-johnson-7ab631195" target="_blank" class="text-dark">[LinkedIn]</a>
+            &bull; <span class="text-muted">(650) 272-7940</span>
+            &bull; <a href="mailto:blakebjo@byu.edu" class="text-dark">blakebjo@byu.edu</a>
+        </p>
+    </div>
+    
+    <div class="resume-section">
+        <h2 class="border-bottom pb-2 mb-4">EDUCATION</h2>
+        
+        <div class="d-flex justify-content-between">
+            <div>
+                [cite_start]<h4 class="mb-1">Brigham Young University - Marriott School of Business [cite: 3]</h4>
+                [cite_start]<p class="text-muted mb-1">Pre-Business, Intended Finance Major (in progress) [cite: 4]</p>
+            </div>
+            <div class="text-right">
+                [cite_start]<p class="font-weight-bold mb-1">Provo, UT [cite: 7]</p>
+                [cite_start]<p class="text-muted">Expected Graduation: 2028 [cite: 4]</p>
+            </div>
+        </div>
+        
+        <ul class="list-unstyled mt-2 small">
+            [cite_start]<li><strong>GPA:</strong> 3.93/4.00 [cite: 5]</li>
+            [cite_start]<li><strong>Clubs:</strong> Investment Banking Association, Finance Society [cite: 6]</li>
+            [cite_start]<li><strong>Relevant Coursework:</strong> Principles of Finance, Information Systems, Business Statistics, and Principles of Accounting [cite: 9]</li>
+        </ul>
+    </div>
+
+    <div class="resume-section mt-5">
+        <h2 class="border-bottom pb-2 mb-4">EXPERIENCE</h2>
+
+        <div class="job-entry mb-4">
+            <div class="d-flex justify-content-between">
+                <div>
+                    [cite_start]<h5 class="mb-1">Roosevelt's Restaurant - <span class="job-title font-weight-bold">Server</span> [cite: 11, 12]</h5>
+                </div>
+                <div class="text-right">
+                    [cite_start]<p class="text-muted mb-0">Jackson, WY [cite: 14] | [cite_start]Jun 2025 - Aug 2025 [cite: 15]</p>
+                </div>
+            </div>
+            <ul class="list-unstyled resume-bullets ml-3">
+                [cite_start]<li>Delivered high-quality guest service in a fast-paced environment, handling 50+ covers per shift[cite: 13].</li>
+                [cite_start]<li>Collaborated with fellow servers to accelerate guest seating, drink service, and food delivery, improving overall dining speed and satisfaction[cite: 16].</li>
+                [cite_start]<li>Demonstrated leadership and customer focus, driving a 40% increase in team gratuities through personalized service and a collaborative team culture[cite: 19].</li>
+            </ul>
+        </div>
+
+        <div class="job-entry mb-4">
+            <div class="d-flex justify-content-between">
+                <div>
+                    [cite_start]<h5 class="mb-1">Hotel Yellowstone - <span class="job-title font-weight-bold">Bell Captain</span> [cite: 20, 21]</h5>
+                </div>
+                <div class="text-right">
+                    [cite_start]<p class="text-muted mb-0">Jackson, WY [cite: 23] | [cite_start]Apr 2025 - Jun 2025 [cite: 24]</p>
+                </div>
+            </div>
+            <ul class="list-unstyled resume-bullets ml-3">
+                [cite_start]<li>Delivered hospitality-first service through coordination and fulfillment of guest requests, creating an informative and memorable first impression[cite: 25].</li>
+                [cite_start]<li>Promoted to leadership quickly, training and guiding a team of six bell staff on luggage management and guest greeting protocols[cite: 27].</li>
+            </ul>
+        </div>
+        
+        <div class="job-entry mb-4">
+            <div class="d-flex justify-content-between">
+                <div>
+                    [cite_start]<h5 class="mb-1">Noso Patches - <span class="job-title font-weight-bold">Inventory Specialist</span> [cite: 28, 29]</h5>
+                </div>
+                <div class="text-right">
+                    [cite_start]<p class="text-muted mb-0">Jackson, WY [cite: 30] | [cite_start]Oct 2020 - Mar 2021 [cite: 31]</p>
+                </div>
+            </div>
+            <ul class="list-unstyled resume-bullets ml-3">
+                [cite_start]<li>Oversaw inventory management and streamlined product flow to support rapid growth in a startup environment[cite: 32].</li>
+                [cite_start]<li>Enhanced organization systems, improving efficiency and accuracy in order fulfillment[cite: 32].</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="resume-section mt-5">
+        <h2 class="border-bottom pb-2 mb-4">LEADERSHIP & SERVICE</h2>
+
+        <div class="job-entry mb-4">
+            <div class="d-flex justify-content-between">
+                <div>
+                    [cite_start]<h5 class="mb-1">The Church of Jesus Christ of Latter-day Saints - <span class="job-title font-weight-bold">Volunteer Representative</span> [cite: 35, 36]</h5>
+                </div>
+                <div class="text-right">
+                    [cite_start]<p class="text-muted mb-0">Colorado Springs, CO [cite: 38] | [cite_start]Jul 2022 - Jul 2024 [cite: 38]</p>
+                </div>
+            </div>
+            <ul class="list-unstyled resume-bullets ml-3">
+                [cite_start]<li>Dedicated 100+ hours weekly to finding, teaching, and mentoring individuals and families, developing strong communication and interpersonal skills[cite: 39].</li>
+                [cite_start]<li>Trained and led fellow missionaries in effective teaching methods, time management, and community outreach initiatives[cite: 40].</li>
+                [cite_start]<li>Partnered with faith-based organizations to deliver hundreds of hours of community service (e.g., Ronald McDonald House)[cite: 40].</li>
+            </ul>
+        </div>
+        
+        <div class="job-entry mb-4">
+            <div class="d-flex justify-content-between">
+                <div>
+                    [cite_start]<h5 class="mb-1">Jackson Hole Food Rescue - <span class="job-title font-weight-bold">Volunteer</span> [cite: 41, 42]</h5>
+                </div>
+                <div class="text-right">
+                    [cite_start]<p class="text-muted mb-0">Jackson, WY [cite: 43] | [cite_start]May 2021 - Oct 2021 [cite: 44]</p>
+                </div>
+            </div>
+            <ul class="list-unstyled resume-bullets ml-3">
+                [cite_start]<li>Volunteered in community food distribution efforts, delivering 1,500+ meals to underprivileged families[cite: 45].</li>
+                [cite_start]<li>Designed a summer food drop-off program using electric bikes, mapping out delivery routes for efficiency and ensuring reliable, sustainable distribution[cite: 45].</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="resume-section mt-5">
+        <h2 class="border-bottom pb-2 mb-4">AWARDS, SKILLS & INTERESTS</h2>
+
+        <div class="row">
+            <div class="col-md-6">
+                <h5 class="font-weight-bold">Awards & Honors</h5>
+                <ul class="list-unstyled ml-3">
+                    [cite_start]<li>Eagle Scout, Boy Scouts of America [cite: 47]</li>
+                    [cite_start]<li>Principal's Honor Roll, 2022 [cite: 48]</li>
+                    <li>1st Place, NASA HUNCH Culinary Competition (State Level); [cite_start]National competitor [cite: 49]</li>
+                </ul>
+            </div>
+            <div class="col-md-6">
+                <h5 class="font-weight-bold">Key Skills & Interests</h5>
+                <ul class="list-unstyled ml-3">
+                    [cite_start]<li>Content creation: ski media projects (backcountry footage, social media storytelling) [cite: 50]</li>
+                    [cite_start]<li>Outdoor enthusiast: skiing, hiking, fishing, and hunting [cite: 51]</li>
+                    <li>Leadership and Interpersonal Communication</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+</section>

@@ -1,0 +1,76 @@
+/* Custom Stylesheet for the From-Scratch Page */
+
+/* REQUIRED: Custom background color/image. Using a solid color for a 'classic' look. */
+body {
+    background-color: #f7f7f7; /* Light off-white/gray for a clean, classic paper look */
+    /* REQUIRED: Font Family Style */
+    font-family: Georgia, serif; /* Classic, readable serif font */
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+/* REQUIRED: Style Definition 1 - Header Div Styling */
+/* REQUIRED: Three Divs for positioning and styling */
+#header-container {
+    background-color: #003366; /* Deep navy blue for a classic, professional feel */
+    color: white;
+    padding: 40px 20px;
+    text-align: center;
+    border-bottom: 5px solid #cc0000; /* Subtle classic red accent */
+}
+
+/* REQUIRED: Style Definition 2 - Font Color Style */
+h1, h2 {
+    /* REQUIRED: Font Color Style */
+    color: #cc0000; /* Classic red for headings */
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+/* REQUIRED: Style Definition 3 - Main Content Div Styling */
+#content-main {
+    width: 80%;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1); /* Subtle shadow for a lift */
+}
+
+/* REQUIRED: Style Definition 4 - Footer Div Styling */
+#footer-container {
+    background-color: #333333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 50px;
+}
+
+/* Additional Styles for required elements */
+.nav-link {
+    color: #ffff99; /* Light yellow accent for links in the header */
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+    border-bottom: 2px solid transparent;
+}
+.nav-link:hover {
+    border-bottom: 2px solid #ffff99;
+}
+
+/* Basic styling for the custom image */
+.custom-image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px 0;
+    border: 3px solid #003366; /* Classic border */
+}
+
+.video-wrapper {
+    text-align: center;
+    margin: 30px 0;
+}
+.video-wrapper iframe {
+    max-width: 100%;
+}
