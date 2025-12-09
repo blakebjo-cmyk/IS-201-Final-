@@ -1,14 +1,13 @@
 <section id="resume-portion" class="container py-5">
-    
-    <div class="text-center mb-5">
-        <h1 class="display-4">Blake B. Johnson</h1>
-        <p class="lead">
-    <a href="https://www.facebook.com/blake.johnson.331197" target="_blank" class="text-dark">[Facebook]</a> 
-    &bull; <a href="https://www.linkedin.com/in/blake-johnson-7ab631195" target="_blank" class="text-dark">[LinkedIn]</a>
+    
+    <div class="text-center mb-5">
+        <h1 class="display-4">Blake B. Johnson</h1>
+        <p class="lead">
+    <a href="https://www.linkedin.com/in/blake-johnson-7ab631195" target="_blank" class="text-dark">[LinkedIn]</a>
             &bull; <span class="text-muted">(650) 272-7940</span>
             &bull; <a href="mailto:blakebjo@byu.edu" class="text-dark">blakebjo@byu.edu</a>
         </p>
-    </div>
+    </div>
     
     <div class="resume-section">
         <h2 class="border-bottom pb-2 mb-4">EDUCATION</h2>
@@ -140,3 +139,4 @@
     </div>
 
 </section>
+
